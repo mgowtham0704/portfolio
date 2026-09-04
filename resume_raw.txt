@@ -1,0 +1,379 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56.4 728 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 19 Tf 22 TL (GOWTHAM M) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 713.5 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf .2 .2 .2 rg (Salem, Tamil Nadu 636011  ) Tj (|) Tj (  8610820898  ) Tj (|) Tj (  mgowtham0704@gmail.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 704.6 cm
+q
+.9 w
+1 J
+.101961 .101961 .101961 RG
+n 0 0 m 499.2 0 l S
+Q
+Q
+q
+1 0 0 1 56.4 683.1 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.2 Tm /F2 11.3 Tf 13.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 626.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 44.4 Tm /F1 9.6 Tf 13.5 TL (Results-oriented AI/ML student pursuing a Bachelor of Technology in Artificial Intelligence and Data Science, with) Tj T* (strong proficiency in Python and machine learning fundamentals. Experienced in building IoT-integrated machine) Tj T* (learning applications, multi-agent LLM systems, and ETL data pipelines, including object detection projects. Seeking) Tj T* (to apply strong analytical skills and a collaborative mindset to deliver efficient, production-ready software solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 606.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.2 Tm /F2 11.3 Tf 13.5 TL (SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 576.6 cm
+q
+BT 1 0 0 1 0 17.4 Tm 13.5 TL /F2 9.6 Tf .133333 .133333 .133333 rg (Technical Skills:) Tj /F1 9.6 Tf ( Python, SQL, Git/GitHub, Machine Learning, Deep Learning, IoT Integration, Data Analysis,) Tj T* (LangChain, LangGraph, Generative AI / LLM Application Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 545.6 cm
+q
+BT 1 0 0 1 0 17.4 Tm 13.5 TL /F2 9.6 Tf .133333 .133333 .133333 rg (Tools & Concepts:) Tj /F1 9.6 Tf ( PyTorch, Apache Airflow, Cloud Deployment \(familiarity\), Data Pipelines, Object Detection,) Tj T* (Recommendation Systems, Ollama \(local LLM deployment\), Prompt Engineering, Multi-Agent System Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 528.1 cm
+q
+BT 1 0 0 1 0 3.9 Tm 13.5 TL /F2 9.6 Tf .133333 .133333 .133333 rg (Soft Skills:) Tj /F1 9.6 Tf ( Teamwork, Communication, Problem Solving, Time Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 508.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.2 Tm /F2 11.3 Tf 13.5 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 490.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Bachelor of Technology - Artificial Intelligence and Data Science) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 477.1 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F3 9.3 Tf .266667 .266667 .266667 rg (Mahendra Engineering College  ) Tj (|) Tj (  CGPA: 7.45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 459.1 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Golden Spark Matriculation Higher Secondary School) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 445.6 cm
+q
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F3 9.3 Tf .266667 .266667 .266667 rg (HSC: 75%  ) Tj (|) Tj (  SSLC: 77%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 426.1 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.2 Tm /F2 11.3 Tf 13.5 TL (ACADEMIC PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 408.1 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Multi-Agent Resume / Job-Matching System \227 LangGraph, LangChain, Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 393.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 393.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Built a 7-agent LangGraph pipeline covering resume parsing, ATS scoring, and job-fit recommendations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 378.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 378.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Used LangChain with Pydantic for typed, structured data exchange between agents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 362.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 362.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Deployed the system fully locally with Ollama, avoiding paid API dependency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 344.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ETL Pipeline with Apache Airflow \227 Python, MySQL, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 330.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 330.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Automated a MySQL to Python to CSV pipeline using Apache Airflow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 314.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 314.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Scheduled the pipeline to run every 5 minutes with built-in error handling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 299.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 299.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Validated extracted data and managed database connections for reliability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 281.1 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (AI-Based Smart Traffic Signal Control Using Helmet Detection and IoT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 266.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 266.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Built a deep learning model to detect helmet usage in real time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 251.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 251.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Linked detection results to IoT-based traffic signal control logic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 235.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 235.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Cleared signals only for rule-compliant riders, improving road safety.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 217.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (IoT-Based Smart Car Parking System \227 Machine Learning, IoT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 203.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 203.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Built a machine learning model to detect available parking spaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 187.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 187.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Used IoT sensors to guide vehicles to open spots.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 172.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 172.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Reduced search time and improved space utilization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 154.1 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Housing ETL Project \227 Python, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 139.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 139.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Built a pipeline to extract, clean, and transform housing market data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 124.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 124.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Loaded processed data into a structured format for analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 108.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 108.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Automated data cleaning and validation using SQL and Python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 90.6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Window Info Collector App \227 Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 76.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 76.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Built an application to capture and log active window information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 60.6 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 60.6 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Tracked application activity for system usage monitoring.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 45.1 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 1.5 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 72.4 45.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 16 3.9 Tm /F1 9.6 Tf 13.5 TL (Organized logged data for easy retrieval and review.) Tj T* ET
+Q
+Q
+ 
